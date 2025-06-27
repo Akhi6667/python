@@ -26,17 +26,23 @@ A fun console-based Python game where the user tries to guess a number randomly 
 1. Clone the repo or download the `.py` file  
 2. Open it in VS Code or any Python IDE  
 3. Run using:  
-```bash
-python number_guessing.py
-   
-### 💡 Features:
-- Random number generated using Python's `random` module
-- User receives hints (Too high / Too low)
-- Loops until the correct number is guessed
+ Run using:
+   ```bash
+   python number_guessing.py
 
-### ## Skills Used:
-- Python
-- Random number generation
-- Conditional logic
-- Loops and input/output handling
+    Features:
+Random number generated using Python’s random module
+
+User receives hints (Too high / Too low)
+
+Loops until the correct number is guessed
+
+🧰 Skills Used:
+Python
+
+Random number generation
+
+Conditional logic
+
+Loops and input/output handling
 

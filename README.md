@@ -27,7 +27,7 @@ A fun console-based Python game where the user tries to guess a number randomly 
 2. Open it in VS Code or any Python IDE  
 3. Run using:  
    ```bash
-   python number_guessing.py
+   
    
 ### 💡 Features:
 - Random number generated using Python's `random` module

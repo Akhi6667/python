@@ -18,7 +18,9 @@ A simple Python project that takes marks of 3 subjects and calculates:
 
 
 
-🎯 Number Guessing Game 🎲
+#🎯 Number Guessing Game 🎲
+
+
 A fun console-based Python game where the user tries to guess a number randomly selected by the computer.
 
 🛠 How to Run:
@@ -32,6 +34,8 @@ bash
 Copy
 Edit
 python number_guessing.py
+
+
 ✨ Features:
 Random number generated using Python’s random module
 
